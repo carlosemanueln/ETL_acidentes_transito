@@ -37,7 +37,9 @@ Este projeto realiza o carregamento e tratamento de dados de acidentes de trâns
 
 
 ## 📊 Resultado Visual
+Gráfico 1: https://github.com/carlosemanueln/ETL_acidentes_transito/blob/main/Gr%C3%A1fico%201.png
 
+Gráfico 2: https://github.com/carlosemanueln/ETL_acidentes_transito/blob/main/Gr%C3%A1fico%202.png
 
 ## ▶️ Como Executar
 
@@ -50,8 +52,8 @@ Este projeto realiza o carregamento e tratamento de dados de acidentes de trâns
 
 - Os dados foram tratados e limpos com cuidado, mas podem conter limitações por conta da origem pública.
 - Todas as etapas possuem comentários linha por linha explicando a lógica usada.
-
+- O arquivo original (.csv) não foi adicionado ao repositório por ultrapassar o limite de 25MB do GitHub
 
 ## 📬 Contato
 
-Dúvidas ou sugestões? Me chame no GitHub: [Carlos Emanuel]
+Dúvidas ou sugestões? Me chame no GitHub: [Carlos Emanuel] (https://github.com/carlosemanueln)
