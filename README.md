@@ -56,4 +56,4 @@ Gráfico 2: https://github.com/carlosemanueln/ETL_acidentes_transito/blob/main/G
 
 ## 📬 Contato
 
-Dúvidas ou sugestões? Me chame no GitHub: [Carlos Emanuel] (https://github.com/carlosemanueln)
+Dúvidas ou sugestões? Me chame no GitHub:(https://github.com/carlosemanueln)
